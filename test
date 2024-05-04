@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="github.com/furrymazu - Tidak untuk di perjual belikan. Playlist ini 100% gratis, karena di rangkai dari beberapa sumber. Hanya untuk pribadi!"
+#EXTM3U billed-msg="github.com/furrymazu - Tidak untuk di perjual belikan. Playlist ini 100% gratis, karena di rangkai dari beberapa sumber. Hanya untuk pribadi!", url-tvg="https://s.urfan.web.id/epgxmlgz" refresh="3600
 
 =====NOT FOR SALE===== 
 =====SEMUA PLAYLIST CHANNEL DI AMBIL DARI BEBERAPA SUMBER=====
@@ -22,13 +22,13 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165054
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://iptvtree.net:8080/c4596f70/c3848d92/165054
 
-===============ANAK==============
+===============Anak==============
 
-#EXTINF:-1 group-title="ANAK" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS 
+#EXTINF:-1 group-title="Anak" tvg-id="aniplus.id" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43 
 #EXTVLCOPT:http-referrer=http://dens.tv http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
-#EXTINF:-1 group-title="ANAK" tvg-id="Asia.sg" tvg-logo="https://iptv.urfan.web.id/logo/.png",Animax 
+#EXTINF:-1 group-title="Anak" tvg-id="Asia.sg" tvg-logo="https://iptv.urfan.web.id/logo/.png",Animax 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0 
 #EXTVLCOPT:http-referrer=https://visionplus.id https://testfunctionlive.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
